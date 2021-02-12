@@ -21,6 +21,6 @@ setup.py [-h] [--number_of_words_to_print INT] [--return_json] [--json_name STR]
  
  You can run the automated tests for the program by running 'pytest' in the terminal.
  You can view more verbose details on the test by adding the '-v' or '-vv' flag to the pytest command.
- You can run tests in parallel batches of size i by adding the '-n i' argument to the pytest command.
+ You can run tests in parallel batches of size INT by adding the '-n INT' argument to the pytest command.
  
  This program is made in python version 3.9.
